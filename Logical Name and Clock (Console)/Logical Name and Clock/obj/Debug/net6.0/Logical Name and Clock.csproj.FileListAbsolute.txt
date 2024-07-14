@@ -1,0 +1,65 @@
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\LO.deps.json
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\LO.runtimeconfig.json
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\LO.exe
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\MeterCommunication(Clock).deps.json
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\MeterCommunication(Clock).runtimeconfig.json
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\MeterCommunication(Clock).exe
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.exe
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.deps.json
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.runtimeconfig.json
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.dll
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.pdb
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\System.IO.Ports.dll
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\LO.dll
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\MeterCommunication(Clock).dll
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\LO.pdb
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\bin\Debug\net6.0\MeterCommunication(Clock).pdb
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.csproj.AssemblyReference.cache
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.AssemblyInfoInputs.cache
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.AssemblyInfo.cs
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.csproj.CoreCompileInputs.cache
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.csproj.CopyComplete
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.dll
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\refint\Logical Name and Clock.dll
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.pdb
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.genruntimeconfig.cache
+D:\Hamid\Project\C#\Logical Name and Clock\Logical Name and Clock\obj\Debug\net6.0\ref\Logical Name and Clock.dll
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\CLK.deps.json
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\CLK.runtimeconfig.json
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\CLK.exe
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.exe
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.deps.json
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.runtimeconfig.json
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.dll
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\Logical Name and Clock.pdb
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\System.IO.Ports.dll
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\CLK.dll
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\LO.dll
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\CLK.pdb
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\bin\Debug\net6.0\LO.pdb
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.csproj.AssemblyReference.cache
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.AssemblyInfoInputs.cache
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.AssemblyInfo.cs
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.csproj.CoreCompileInputs.cache
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.csproj.CopyComplete
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.dll
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\refint\Logical Name and Clock.dll
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.pdb
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\Logical Name and Clock.genruntimeconfig.cache
+D:\Hamid\Project\C#\Logical Name and Clock (Console)\Logical Name and Clock\obj\Debug\net6.0\ref\Logical Name and Clock.dll

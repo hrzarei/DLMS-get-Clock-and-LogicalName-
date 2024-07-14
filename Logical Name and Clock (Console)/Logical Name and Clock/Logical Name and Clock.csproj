@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Logical_Name_and_Clock</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IO.Ports" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Time Request (Functional)\MeterCommunication(Clock)\CLK.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LO">
+      <HintPath>..\..\Logical Name Request (Functional)\LO\bin\Debug\net6.0\LO.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
